@@ -1,0 +1,9 @@
+.title {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: plum;
+    font-size: 40px;
+}
+.link-button {
+    background-color: blue;
+}
