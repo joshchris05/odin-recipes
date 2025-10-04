@@ -1,9 +1,20 @@
 .title {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: plum;
+    color: rgb(71, 0, 71);
     font-size: 40px;
 }
 .link-button {
-    background-color: blue;
+    background-color: rgba(170, 71, 162, 0.507);
+    font-size: 20px;
+}
+.link {
+    text-align: center;
+}
+* {
+    background-color: orange;
+}
+.meow {
+    height: auto;
+    width: auto;
 }
