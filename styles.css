@@ -1,23 +1,35 @@
+* {
+    background-color: antiquewhite;
+    box-sizing: border-box;
+}
 .title {
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(71, 0, 71);
     font-size: 40px;
+    background-color: rgb(226, 119, 226);
+    margin: 0 auto;
+    padding: 30px;
+    border: 0 auto;
 }
 .link-button {
-    background-color: rgba(170, 71, 162, 0.507);
     font-size: 20px;
-}
-.link {
+    padding: 10px 15px;
+    margin: 100px auto;
+    background-color: rgba(197, 104, 216, 0.521);
+    color: purple;
+    flex: 1;
     text-align: center;
 }
-* {
-    background-color: orange;
-    outline: 5px solid rgb(160, 10, 10);
-    margin: 10px;
-    padding: 10px;
+.main-body div{
+    display: flex;
+}
+.main-body p{
+    background-color: rgba(197, 104, 216, 0.521);
+    margin: 1px auto;
+    padding: 30px 30px ;
     border-color: purple;
-
+    flex: 1;
 }
 .meow {
     height: 400px;
